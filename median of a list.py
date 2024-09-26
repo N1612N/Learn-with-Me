@@ -1,7 +1,7 @@
 # Question: Given a sequence numbers print the median of the sequence.
 
 """This program will generate a list of numbers with random limits and
-print the median as result output"""
+prints the median as result output"""
 
 from random import randint
 
